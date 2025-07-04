@@ -24,8 +24,8 @@ O LocateIN é um aplicativo inovador que permite a localização precisa dentro 
 
 - **Usuário Comum** – navega e contribui com marcações
 - **Visitante** – navega sem salvar dados
-- **Profissional** – define mapas de ambientes institucionais
-- **Corporativo** – empresas com perfil oficial e recursos avançados
+- **Profissional** – define mapas de ambientes empresariais
+- **Corporativo** – perfil personalizado empresarial de acordo com negociações conosco
 
 ## 🏗️ Casos de Uso
 
