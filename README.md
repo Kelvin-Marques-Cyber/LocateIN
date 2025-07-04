@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Screenshot_2025-07-04-16-10-52-895_com.google.android.apps.docs.png" alt="Logo do LocateIN" width="200"/>
+</p>
+
 # 📍 LocateIN
 
 **Navegação indoor inteligente baseada em sensores móveis nativos e colaboração comunitária.**
